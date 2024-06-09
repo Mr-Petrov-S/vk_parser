@@ -1,0 +1,8 @@
+pandas
+clickhouse-driver
+requests
+numpy
+tqdm
+python-decouple
+seaborn
+matplotlib
